@@ -1,0 +1,6 @@
+gradio
+streamlit
+pandas
+matplotlib
+seaborn
+openpyxl
